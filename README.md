@@ -2,7 +2,7 @@
 
 > Building <a href="https://peneterrer.com/">Peneterrer</a> to replace Pentesters
 
-Some cool projects that I've built in the past:
+Cool projects that I've built in the past:
 - GAN based ETF price simulator
 - HERC Portfolio optimization using EVaR
 - Monocular depth estimation-based image classification (Image classifier built on depth estimated images)
